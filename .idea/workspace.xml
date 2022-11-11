@@ -1,13 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="152e2bc8-d3ed-4e74-996a-b56f1b5c4d42" name="Changes" comment="Hello Turma Dio, primeiro projeto Java realizado pelo Intellij e sicronizado com o Github" />
+    <list default="true" id="152e2bc8-d3ed-4e74-996a-b56f1b5c4d42" name="Changes" comment="Hello Turma Dio, primeiro projeto Java realizado pelo Intellij e sicronizado com o Github">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -48,7 +59,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668116592562</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Hello Turma Dio, primeiro projeto Java realizado pelo Intellij e sicronizado com o Github">
+      <created>1668116774389</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668116774389</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Hello Turma Dio, primeiro projeto Java realizado pelo Intellij e sicronizado com o Github">
+      <created>1668116952509</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668116952509</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
